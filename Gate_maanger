@@ -26,4 +26,5 @@ public class Gate_manager : MonoBehaviour
         }
     }
     
+    
 }
